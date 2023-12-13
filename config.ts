@@ -14,3 +14,5 @@ export const managementClient = createManagementClient({
 
 export const exportFilename = `perf-result`;
 export const sourceImageFilename = `source-image.jpg`;
+
+export const iterations = 100;
